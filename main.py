@@ -14,3 +14,5 @@ image = cv2.blur(mat,salata)
 ibrahim abu salata is kopek
 
 kol zak ma tahiyat abo salata malmak
+
+int malm sabati ma tahiyat ahmet efe
