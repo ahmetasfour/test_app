@@ -7,3 +7,6 @@ cv2.imshow("image",image)
 cv2.waitKey(0)
 out_image = cv2.medianBlur(image,image,3)
 cv2.ConnectedComponentsAlgorithmsTypes(image,image)
+
+#ibrahim abo salata
+image = cv2.blur(mat,salata)
