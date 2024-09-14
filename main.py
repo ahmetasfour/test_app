@@ -10,3 +10,5 @@ cv2.ConnectedComponentsAlgorithmsTypes(image,image)
 
 #ibrahim abo salata
 image = cv2.blur(mat,salata)
+
+ibrahim abu salata is kopek
